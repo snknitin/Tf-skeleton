@@ -1,2 +1,4 @@
 # Tf-skeleton
-Skeletal code to start any TensorFlow project, to focus only on logic and algorithm instead of construction
+
+
+This repository constains a skeletal structure with multiple files that can make starting on different projects easy and quicker. This willbe built following several tensorflow tutorials and my own experiences.
